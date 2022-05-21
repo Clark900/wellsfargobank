@@ -1,2 +1,2 @@
 # wellsfargobank
-Wellsargo.login
+Wellsargo.login.com
